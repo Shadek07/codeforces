@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1428172854 source:d:\contest\codeforce\zepto\b\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<algorithm>
+	<queue>
+	<sstream>
+	<stack>
+	<list>
+	<bitset>
+	<iomanip>
+	<fstream>
+	<ctime>
+

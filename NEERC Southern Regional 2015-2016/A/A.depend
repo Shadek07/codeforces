@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1445073210 source:d:\contest\codeforce\neerc southern regional 2015-2016\a\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<algorithm>
+	<queue>
+	<sstream>
+	<stack>
+	<list>
+	<bitset>
+	<iomanip>
+	<fstream>
+	<ctime>
+	<locale>
+
