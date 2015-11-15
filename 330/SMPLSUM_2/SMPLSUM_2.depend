@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1447492631 source:d:\contest\codeforces\330\smplsum_2\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
