@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1448994752 source:d:\contest\codeforces\334\b\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<algorithm>
+	<queue>
+	<sstream>
+	<stack>
+	<list>
+	<bitset>
+	<iomanip>
+	<fstream>
+	<ctime>
+
