@@ -1,0 +1,1 @@
+This repository is a collection of Codeforces Round code sources.
