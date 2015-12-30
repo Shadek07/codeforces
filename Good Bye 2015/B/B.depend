@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1451493759 source:d:\contest\codeforces\good bye 2015\b\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<algorithm>
+	<queue>
+	<sstream>
+	<stack>
+	<list>
+	<bitset>
+	<iomanip>
+	<fstream>
+	<ctime>
+	<climits>
+
