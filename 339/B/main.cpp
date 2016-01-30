@@ -84,6 +84,7 @@ int main(void)
     char in[MAX];
     char other[MAX];
     //cout << sizeof(double) << endl;
+   
     while(cin >> n){
         int zeroCount=0;
         
