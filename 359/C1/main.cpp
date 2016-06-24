@@ -38,8 +38,7 @@ long long int h,m;
 map<pii, int> mp;
 
 void doit(int mask, ull h1, ull m1, int hcnt, int mcnt){
-    if(mcnt > b)
-        return;
+    
     if(hcnt == a && mcnt == b){
         if(h1 <= h && m1 <= m){
                 ans++;
@@ -56,7 +55,7 @@ void doit(int mask, ull h1, ull m1, int hcnt, int mcnt){
                 if(nw <= h){
                     doit(mask|(1<<i),nw, m1, hcnt+1,mcnt);
                 }
-            }else{
+            }else if(mcnt < b){
                 nw = i*pow(7.0,mcnt) + m1;
                 if(nw<=m){
                     doit(mask|(1<<i),h1,nw,hcnt,mcnt+1);
